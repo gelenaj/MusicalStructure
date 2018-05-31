@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Tunes</string>
+    <string name="_empty">empty</string>
+    <string name="test">test</string>
+    <string name="your_albums">YOUR ALBUMS</string>
+    <string name="search">Search</string>
+    <string name="playlist">Playlist</string>
+    <string name="by">by\u00A0</string>
+    <string name="my_playlist">My playlist</string>
+    <string name="search_results">Search results</string>
+    <string name="_the_screaming_ghosts">The Screaming Ghosts</string>
+    <string name="echo_chamber">Echo Chamber</string>
+    <string name="lost_ones">Lost Ones</string>
+    <string name="holy_grail">Holy Grail</string>
+    <string name="revolvers">Revolvers</string>
+    <string name="pebbles">Pebbles</string>
+    <string name="classic">Classic</string>
+    <string name="london_calling">London Calling</string>
+    <string name="forgotten">Forgotten</string>
+    <string name="remember_my_name">Remember My Name</string>
+    <string name="the_sky_is_falling">The Sky is Falling</string>
+    <string name="undercurrent">Undercurrent</string>
+</resources>

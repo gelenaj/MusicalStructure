@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="verticalLineW1">1dp</dimen>
+    <dimen name="verticalLineHeight50">50dp</dimen>
+    <dimen name="gridWidth">100dp</dimen>
+    <dimen name="gridHspacing">20dp</dimen>
+    <dimen name="gridVspacing">0dp</dimen>
+    <dimen name="marginL">8dp</dimen>
+    <dimen name="marginR">3dp</dimen>
+    <dimen name="marginB">27dp</dimen>
+    <dimen name="marginT">10dp</dimen>
+    <dimen name="textPadding">8dp</dimen>
+</resources>
